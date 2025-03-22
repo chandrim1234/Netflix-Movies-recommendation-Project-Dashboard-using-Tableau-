@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/e964d36f-e28e-4910-b90c-d5c7882651d4)
 
 
-### Netflix Movies Recommendation Dashboard - Tableau  
+### Netflix Movies Recommendation Dashboard - Tableau:  
 
 #### **Overview:**  
 The Netflix Movies Recommendation Dashboard in Tableau is designed to help users explore Netflix’s movie catalog, analyze trends, and receive personalized recommendations based on various factors such as genre, IMDb rating, release year, and user preferences.  
